@@ -1,0 +1,18 @@
+.imp {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: #e2a1a1;
+}
+
+.fontsize {
+    font-size: 24px;
+}
+
+#pair1 {
+    color : #0000ff;
+    font-size: 36px;
+}
+
+#pair2 {
+    background-color: rgb(152, 218, 152);
+    font-weight: 700;
+}
